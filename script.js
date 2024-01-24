@@ -29,4 +29,12 @@ const next = () => {
     items = document.querySelectorAll('.item');
 }
 
+const previous = () => {
+    const lastItem = items[items.length-1]
+    containerItems.insertBefore(lastItem, items[0]);
+    items = document.querySelectorAll('.item');
+}
+
 document.querySelector('#next').addEventListener('click', next);
+
+document.querySelector('#previous').addEventListener('click', previous);

@@ -25,6 +25,7 @@
     width: 50vw;
     height: 50vh;
     border-radius: 8;
+    overflow: hidden;
 }
 .item{
     width: 50vw;
