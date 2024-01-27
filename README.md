@@ -18,7 +18,7 @@
 
 
 <h2 id="desc">Descrição</h2>
-<p>A proposta do projeto é realizar uma apresentação de slides com diversas imagens, onde cada imagem é passada em sequência.</p>
+<p>A proposta do projeto é realizar uma apresentação de slides com diversas imagens, onde cada imagem é passada em sequência sem fim.</p>
 
 <h2 id="prer">Pré-requesito</h2>
 
