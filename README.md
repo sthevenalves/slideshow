@@ -8,8 +8,6 @@
  <ul>
    <li><a href="#proj">Projeto</a> 
      <li><a href="#desc">Descrição</a> 
-      <li><a href="#prer">Pré-requesito</a> 
-   <li><a href="#config">Configuração</a> 
  </ul> 
 
 <h2 id="proj">Projeto</h2>
@@ -20,18 +18,4 @@
 <h2 id="desc">Descrição</h2>
 <p>A proposta do projeto é realizar uma apresentação de slides com diversas imagens, onde cada imagem é passada em sequência sem fim.</p>
 
-<h2 id="prer">Pré-requesito</h2>
-
-<ul>
-  <li>Ter Git o instalado na sua máquina</li>
-</ul>
-
-<h2 id="config">Configuração</h2>
-  <ol>
-    <li>cd pasta-do-projeto</li>
-    <li>git clone</li>
-    
-        https://github.com/sthevenalves/slideshow.git
-  </ol>
-  
 
